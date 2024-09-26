@@ -6,3 +6,6 @@ Check to see if you can run  ``$ node -v`` and ``$ npm -v`` (My versions are v16
 ``$ node App.js``
 
 You should see the message ``Server is running on http://localhost:8000``
+
+
+To view the completed project: https://drawingboard-pink.vercel.app/
